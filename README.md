@@ -1,0 +1,1 @@
+AgentAtlas is a multi-agent AI travel planner built using LangGraph, FastAPI, and RAG. It generates personalized trip itineraries by coordinating specialized agents for flights, hotels, budgeting, weather, and visa guidance using real-time APIs and vector-based semantic retrieval.
